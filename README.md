@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**bridges-wood/bridges-wood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Max! 👋
 
-Here are some ideas to get you started:
+  
+## 🚀 About Me
+I'm a 2<sup>nd</sup> year undergraduate computer science student at the University of Bath and a freelance fullstack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://maxwood.tech/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-wood-181140182/)
+[![gmail](https://img.shields.io/badge/gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bridges.wood@gmail.com)
+
+  
+## 🛠 Skills
+Java, Python, HTML, CSS3, JavaScript, Typescript
