@@ -3,7 +3,7 @@
 
   
 ## 🚀 About Me
-I'm a 2<sup>nd</sup> year undergraduate computer science student at the University of Bath and a freelance fullstack developer.
+I'm a 3<sup>rd</sup> year undergraduate computer science student at the University of Bath and a freelance fullstack developer.
 
   
 ## 🔗 Links
