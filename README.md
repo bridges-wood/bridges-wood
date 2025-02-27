@@ -3,7 +3,7 @@
 
   
 ## 🚀 About Me
-I'm a final year undergraduate computer science student at the University of Bath, currenty on placement at Morgan Stanley.
+I'm a Technology Analyst at Morgan Stanley.
 
   
 ## 🔗 Links
